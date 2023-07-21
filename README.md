@@ -1,7 +1,7 @@
 # simple-spotify-playlist-server
 Homework Module 2.3
 
-| Methods | Command | Description |
+| Methods |Command |Description |
 | --- | --- | --- |
 | GET | /playlist | Show all song in playlist |
 | GET | /playlist?sort=asc | Sort song in ascending order |
