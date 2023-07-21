@@ -1,5 +1,7 @@
-# simple-spotify-playlist-server
+# Simple Spotify Playlist Server
 Homework Module 2.3
+
+![](https://github.com/migellamp/simple-spotify-playlist-server/blob/main/src/ss.png| width=100)
 
 | Methods |Command |Description |
 | --- | --- | --- |
